@@ -1,4 +1,4 @@
-### Hey, I'm JungleSucks 👋
+### Hey, I'm Devang 👋
 
 <!--
 **junglesucks/junglesucks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
